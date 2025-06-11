@@ -3,4 +3,3 @@
 - **Technologies**: WINFORMS, ADO.NET, SQL SERVER
 
 https://github.com/user-attachments/assets/9a36daf5-717e-4012-a2e5-ac324f6145e6
-
