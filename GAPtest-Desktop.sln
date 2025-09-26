@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GAPtest-Desktop", "GAPtest-Desktop\GAPtest-Desktop.csproj", "{74247BCF-8B88-48FA-8D0B-C786C92589FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74247BCF-8B88-48FA-8D0B-C786C92589FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74247BCF-8B88-48FA-8D0B-C786C92589FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74247BCF-8B88-48FA-8D0B-C786C92589FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74247BCF-8B88-48FA-8D0B-C786C92589FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A7D5964-C411-4199-86A7-55AF094E80D8}
+	EndGlobalSection
+EndGlobal
